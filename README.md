@@ -1,16 +1,48 @@
-# LeetCode Problems
+# Daily LeetCode Practice
 
-This repository contains Java solutions for LeetCode problems.
+![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange)
+![Language](https://img.shields.io/badge/Language-Java-blue)
 
-## Problems Solved
+## 📌 About
 
-| Problem | File | Description |
-|---------|------|-------------|
-| 26 | leetcode-26 | Remove Duplicates from Sorted Array |
-| 27 | leetcode-27 | Remove Element |
-| 80 | leetcode-80 | Remove Duplicates from Sorted Array II |
-| 88 | leetcode-88 | Merge Sorted Array |
+This repository contains my daily LeetCode problem solutions.
+I am consistently practicing Data Structures & Algorithms to improve problem-solving skills.
 
-## Structure
+---
 
-Each file contains a `Solution` class with the standard LeetCode method signature.
+## 📊 Progress
+
+| Difficulty | Solved |
+| ---------- | ------ |
+| 🟢 Easy    | 3      |
+| 🟡 Medium  | 1      |
+| 🔴 Hard    | 0      |
+
+---
+
+## 📁 Folder Structure
+
+* **Easy/** → Basic problems
+* **Medium/** → Moderate difficulty
+* **Hard/** → Advanced problems
+
+---
+
+## 🔥 Goals
+
+* Solve problems daily
+* Improve DSA & problem-solving
+* Prepare for coding interviews
+
+---
+
+## 📌 Problems Solved
+
+| #  | Problem                             | Difficulty | Solution                                                        |
+| -- | ----------------------------------- | ---------- | --------------------------------------------------------------- |
+| 26 | Remove Duplicates from Sorted Array | Easy       | [Code](Easy/0026-remove-duplicates-from-sorted-array.java)      |
+| 27 | Remove Element                      | Easy       | [Code](Easy/0027-remove-element.java)                           |
+| 80 | Remove Duplicates II                | Medium     | [Code](Medium/0080-remove-duplicates-from-sorted-array-ii.java) |
+
+---
+
