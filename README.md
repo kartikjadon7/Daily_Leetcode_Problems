@@ -14,8 +14,8 @@ I am consistently practicing Data Structures & Algorithms to improve problem-sol
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 3      |
-| 🟡 Medium  | 1      |
+| 🟢 Easy    | 5      |
+| 🟡 Medium  | 5      |
 | 🔴 Hard    | 0      |
 
 ---
@@ -33,16 +33,6 @@ I am consistently practicing Data Structures & Algorithms to improve problem-sol
 * Solve problems daily
 * Improve DSA & problem-solving
 * Prepare for coding interviews
-
----
-
-## 📌 Problems Solved
-
-| #  | Problem                             | Difficulty | Solution                                                        |
-| -- | ----------------------------------- | ---------- | --------------------------------------------------------------- |
-| 26 | Remove Duplicates from Sorted Array | Easy       | [Code](Easy/0026-remove-duplicates-from-sorted-array.java)      |
-| 27 | Remove Element                      | Easy       | [Code](Easy/0027-remove-element.java)                           |
-| 80 | Remove Duplicates II                | Medium     | [Code](Medium/0080-remove-duplicates-from-sorted-array-ii.java) |
 
 ---
 
